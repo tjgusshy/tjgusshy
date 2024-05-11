@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adetunji Elegushi
 - 👀 I’m interested in data analytics, data engineering, automating analysis.
-- 🌱 I’m currently learning Big data Engineering, learning python and improving my storytelling skill
+- 🌱 I’m currently learning Big data Engineering.
 - 📫 How to reach me linkedin.com/in/tjthedataanalyst
 
 <!---
