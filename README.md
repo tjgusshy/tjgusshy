@@ -1,5 +1,4 @@
-AI/ML Engineer focusing on applied AI
-📍 Singapore
+Analytics Engineer/ML Engineer
 📧 Email: tunjisoliu@gmail.com
 
 About Me 
