@@ -1,4 +1,4 @@
-Analytics Engineer/ML Engineer
+Analytics Engineer/Data Engineer
 📧 Email: tunjisoliu@gmail.com
 
 About Me 
