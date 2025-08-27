@@ -2,15 +2,12 @@ Analytics Engineer/Data Engineer
 📧 Email: tunjisoliu@gmail.com
 
 About Me 
-Blending over 3 years of experience as a consultant and currently studying MSc data science, I have worked on projects in ML, and  ML, Data engineering, I transform data and language into impactful solutions and experiences.
+Blending over 3 years of experience as a consultant and currently studying MSc data science, I have worked on projects in machine learning, data engineering, I transform data and language into impactful solutions and experiences.
 
 Professional Highlights 🌟
 Senior Data Analytics Engineer Bluechips Technology
-Vista Advisory: Data Scientist
-Tech Toolbox 🛠️
-Languages: Python, SQL, R
-Frameworks & Libraries: PyTorch, Sklearn
-Tools: AWS, GCP, Docker, Git
+Vista Advisory: Data Analyst
+
 Education 🎓
 Masters in Data Science, The University of the West Of England
 Bachelor in Business Administration 
