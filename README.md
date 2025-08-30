@@ -1,7 +1,7 @@
 Analytics Engineer/Data Engineer
 📧 Email: tunjisoliu@gmail.com
 
-##About Me 
+**About Me**
 
 Blending over 3 years of experience as a consultant and currently studying MSc data science, I have worked on projects in machine learning, data engineering. I transform data  into impactful solutions.
 
@@ -11,10 +11,9 @@ Professional Highlights 🌟
 - Revops Automated: Data Analyst
 
 Education 🎓
-Masters in Data Science, The University of the West Of England
-Bachelor in Business Administration 
-Certifications 📜
-Coursera: Google Data Professional course
+- Masters in Data Science, The University of the West Of England
+- Bachelor in Business Administration
+  
 🔗 Let's ideate, innovate, and build cool experiences with AI. Reach out for collaborations or simply to chat!
 
 <!---
