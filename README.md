@@ -1,7 +1,7 @@
 Analytics Engineer/Data Engineer
 📧 Email: tunjisoliu@gmail.com
 
-About Me 
+##About Me 
 
 Blending over 3 years of experience as a consultant and currently studying MSc data science, I have worked on projects in machine learning, data engineering. I transform data  into impactful solutions.
 
